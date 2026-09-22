@@ -1,4 +1,4 @@
-# NumAKAN: Numeral and Affective Knowledge Augmented Network for Aspect-Based Financial Sentiment Analysis
+# Aspect-based Financial Sentiment Analysis via Numeral and Affective Knowledge Augmented Networks
 
 This repository contains the implementation of **NumAKAN (Numeral and Affective Knowledge Augmented Network)** for fine-grained **Aspect-Based Financial Sentiment Analysis (ABFSA)**.
 
